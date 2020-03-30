@@ -13,10 +13,7 @@ STEP 7 MicroWIN version 4.0 SP8-SP9
 -------------------------------------------------------------------
 
 ### Authors
-Designed by #NVJOB Nicholas Veselov - https://nvjob.github.io
+<a href="https://nvjob.github.io">#NVJOB Nicholas Veselov. Независимый Разработчик Николай Веселов. Санкт-Петербург.</a>
 
 ### License
-GNU General Public License v3.0 - https://nvjob.github.io/gnu-license
-
-### Donate
-Help for this project - https://nvjob.github.io/donate
+<a href="https://nvjob.github.io/gnu-license">GNU General Public License v3.0</a>
